@@ -1,0 +1,9 @@
+name: resiak
+main: io.github.lordkaiser.resiak.Resiak
+version: 0.0.1
+commands:
+  predator:
+    description: Predator commands
+    usage: /<command>
+    permission: resiak.preydator
+    permission-message: You are not a predator
